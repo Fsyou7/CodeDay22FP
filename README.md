@@ -1,19 +1,6 @@
-# AppTmpl
+# CodeDay22FP
 
-This is an app that contains boilerplate HTML5 code to function as a starting point for future projects. It contains an html file, a css file, a javascript file, and this, a readme markdown file, all linked together and running.  As I learn more technologies, I will add branches that include those technologies which I can use as starting points.
+These are my notes from Anjana Vakil's presentation The Art of Functional Programming (Anjana Vakil, Tech Talk @ CodeDay Labs 2022).  I have copied her examples and added notes in the comments where I thought necessary. 
+ Here's the link and video description: https://www.youtube.com/watch?v=M8_64Vd_Qno&t=1240s
 
-In the text below, this markdown file will serve as a template for the readme of future projects
-
-# Conventions of a Good README File
-## Your README file should be as good as your project itself.
-
-### Make your project stand out look professional by at least including the following elements in your README:
-
-* Project Title: the name of your project
-* Description: This is an extremely important component of the README. You should describe the main purpose of your project. Answer questions like “why did you build this project?” and “what problem(s) does it solve?”. It also helps to include your motivations for the project and what you learned from it.
-Features: If your project has multiple features, list them here. Don’t be afraid to brag if your project has unique features that make it stand out. You can even add screenshots and gifs to show off the features.
-* How to use: Here, you should write step-by-step instructions on how to install and use your project. Any software or package requirements should also be listed here.
-* Technologies: List all the technologies and/or frameworks you used and what purpose they serve in your project.
-* Collaborators: If others have contributed to your project in any way, it is important to give them credit for their work. Write your team members’ or collaborators’ names here along with a link to their GitHub profile.
-* License: It’s also important to list a license on your README so other developers can understand what they can and cannot do with your project. You can use this guide to help you choose a license.
-Keep README’s brief but detailed. README should always be up-to-date and self-explanatory. If you have spent a lot of time on your project, you should also spend a good chunk of time on the README. It can help your future self as well when you step away for a while and need to get reacquainted with your project. Not to mention it’ll leave a positive impression on future interviewers who look at your GitHub profile.# Loopsy
+Functional Programming (FP), a paradigm in which programs are made up of pure, stateless functions, is adored by many programmers for how easy it makes it to predict, test, and debug the behavior of the code we write. Although FP has an unfortunate reputation as an ivory-tower domain full of obscure jargon comprehensible only to those with PhDs in category theory, the core concepts are straightforward ideas all of us can understand, and even have fun learning! In this talk, we’ll create generative SVG art as a way to explore fundamental FP concepts such as recursion and function composition and tackle the practical challenges of FP in the real world, such as dealing with the tricky parts like side effects and randomness which don’t fit into the safe, sterile world of pure functions. By the end of the talk we’ll not only have the key concepts & techniques we need to start writing our own functional programs, we’ll have some pretty functional art to look at too!
