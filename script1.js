@@ -1,7 +1,7 @@
 console.log("script is running");
 
 function impureSetSVGContents(contents) {
-  const art = document.getElementById("art");
+  const art = document.getElementById("art1");
   art.innerHTML = contents;
   return art;
 }
@@ -23,3 +23,5 @@ function getPattern(color1, color2, width) {
     width * 0.7071067811865476
   )} </g>`;
 }
+
+fun;
